@@ -8,7 +8,7 @@ public class Rectangle extends Shape {
     public Rectangle(int sideA, int sideB) {
         this.sideA = sideA;
         this.sideB = sideB;
-        area = sideA*sideB;
+        area = sideA * sideB;
 
     }
 
